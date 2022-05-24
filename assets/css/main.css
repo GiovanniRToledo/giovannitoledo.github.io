@@ -112,6 +112,10 @@ input, select, textarea {
 			-ms-transition: none !important;
 			transition: none !important;
 		}
+		.my_picture {
+			width: 30%;
+			height: auto;
+		}
 
 /* Type */
 
@@ -3327,3 +3331,4 @@ input, select, textarea {
 			}
 
 		}
+
